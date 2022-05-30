@@ -1,6 +1,3 @@
-### Solved.ac 💛 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zpqmdh)](https://solved.ac/zpqmdh/)
-
 
 
 <!--
